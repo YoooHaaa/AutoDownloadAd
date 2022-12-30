@@ -1,0 +1,26 @@
+
+{
+    "deviceid":"712bd8d3",
+    "packagename":"com.ss.android.ugc.aweme",
+    "model":2,
+    "search":{
+        "cycle":5,
+        "refresh":20,
+        "like":false,
+        "keywords":["网赚小游戏", "赚钱小游戏", "红包短视频", "答题红包", "成语赚钱", "赚钱游戏", "红包游戏"],
+        "interval":5
+    },
+    "recommend":{
+        "like":false,
+        "refresh":220,
+        "interval":5
+    },
+    "mix":{
+        "search_limit":2
+    },
+    "exit":"alt+q"
+}
+
+
+
+

@@ -1,0 +1,118 @@
+
+
+
+{
+    "web_url":"https://www.chengzijianzhan.com/tetris/page/7129334875697790989?clickid=EJeYpazKio0DGMiZ0f-djaYEIKTa8KmMjKcGMAw4wbgCQiIyMDIyMTAxNDE0NDk0OTAxMDIxMjE2NTIwODE4ODlEOTAwSMG4ApABAA&ad_id=1746387997582436&cid=1746388019399703&req_id=202210141449490102121652081889D900&pkg_id=76013688881373396",
+    "web_title":"西瓜视频",
+    "button_info":{
+        "button_text":"赶快下载",
+        "button_background_color":"#FE2C55",
+        "title":"超多电影电视剧",
+        "source":"西瓜视频",
+        "image_url":"http://p9-ad-sign.byteimg.com/ad-app-package/65fa3bc4945af5fcb6f420081c1abcdc~tplv-iq460dd072-origin.image?from=ad&x-expires=1668322190&x-signature=1Msptkhl9w1OOvFXu1Y8pp%2F7l20%3D",
+        "style_type":2,
+        "card_type":"download",
+        "show_button_seconds":5,
+        "show_button_color_seconds":7,
+        "button_replay_highlight":false,
+        "appointment_status":false,
+        "app_data":{
+            "id":"1746388019399703",
+            "name":"西瓜视频",
+            "pkg_name":"com.ss.android.article.video",
+            "download_url":"https://ugapk.com/9ShB",
+            "event_tag":"draw_ad",
+            "group_id":"7153205337334500622",
+            "is_ad":1,
+            "log_extra":"{\"ad_author_id\":0,\"ad_item_id\":7153205337334500622,\"ad_price\":\"Y0kGjgAbOPZjSQaOABs49rGVBSGf6M8YbOHA8g\",\"ad_show_type\":0,\"attributed_material_items\":\"[{\\\"item_type\\\":9,\\\"mid\\\":7094471944746139684},{\\\"item_type\\\":53,\\\"mid\\\":7127868797180362791},{\\\"item_type\\\":101,\\\"mid\\\":7129339435268161574}]\",\"attributed_site_id\":\"7129328026660159519\",\"bdid\":\"f3e4f011a6782330dd1d6ee7374e4ed7bf14e14d67e4060d55aa5257a9f5b001\",\"card_id\":0,\"card_type\":\"download\",\"clickid\":\"EJeYpazKio0DGMiZ0f-djaYEIKTa8KmMjKcGMAw4wbgCQiIyMDIyMTAxNDE0NDk0OTAxMDIxMjE2NTIwODE4ODlEOTAwSMG4ApABAA\",\"compliance_data\":\"{\\\"biz_type\\\":\\\"ad\\\",\\\"ad\\\":{\\\"download_uniform\\\":1,\\\"landing_type\\\":3,\\\"pricing_type\\\":9,\\\"appstore_permit\\\":1,\\\"market_online_status\\\":15,\\\"content_type\\\":6,\\\"pkg_id\\\":76013688881373396,\\\"package_name\\\":\\\"com.ss.android.article.video\\\",\\\"is_dsp\\\":false,\\\"dsp_type\\\":0}}\",\"component_ids\":[8,9,200495,200719,202550],\"convert_component_suspend\":0,\"convert_id\":0,\"external_action\":8,\"hyrule_atype\":[1,5,14,20,2],\"is_pack_v2\":true,\"material_info\":\"type:19,mid:16657493,source:0,p_ids:[],id:0|type:53,mid:7127868797180362791,source:0,p_ids:[],id:0|type:10,mid:7153205337334500622,source:0,p_ids:[],id:7153205337334500622|type:9,mid:7094471944746139684,source:0,p_ids:[],id:460896267305397968|type:49,mid:7129339364585701387,source:0,p_ids:[],id:7129334875697790989|type:4,mid:6940011522522513439,source:3101,p_ids:[],id:1221956046127090600|type:20,mid:6940011522522513439,source:3101,p_ids:[],id:1221956046127090600|type:21,mid:6939721173056143374,source:21105,p_ids:[],id:3626766915093235803|type:13,mid:6939719064266227724,source:3201,p_ids:[],id:7947176665693223888|type:13,mid:6939761626808647716,source:3302,p_ids:[],id:6528636573470182818|type:13,mid:6939727091667697694,source:3201,p_ids:[],id:6770639128634074132\",\"orit\":40001,\"pigeon_num\":4723769,\"real_material_items\":\"[{\\\"item_type\\\":101,\\\"mid\\\":7129339435268161574},{\\\"item_type\\\":9,\\\"mid\\\":7094471944746139684},{\\\"item_type\\\":53,\\\"mid\\\":7127868797180362791}]\",\"real_site_id\":\"7129328026660159519\",\"render_type\":\"lynx\",\"req_id\":\"202210141449490102121652081889D900\",\"rit\":40001,\"style_id\":4020,\"style_ids\":[4020],\"variation_id\":\"7129334875697790989\",\"variation_types\":\"1001\",\"wdsignals\":0,\"jdsignals\":0,\"maca\":\"\",\"isoid\":\"\"}",
+            "download_mode":2,
+            "auto_open":1,
+            "version_name":""
+        }
+    },
+    "template_type":0
+}
+
+{
+    "web_url":"https://www.chengzijianzhan.com/tetris/page/7121562823485947935/?adid=1746463399734328&creativeid=1746463607682109&creativetype=15&clickid=EL3oy_fjjI0DGMiZ0f-djaYEIKTa8KmMjKcGMAw4wbgCQiIyMDIyMTAxNDE0MzI1NzAxMDIxMjA3NDIyNjE5NjBBMTc4SMG4ApABAA&ad_id=1746463399734328&cid=1746463607682109&req_id=202210141432570102120742261960A178",
+    "web_title":"上汽大众大众品牌",
+    "button_info":{
+        "button_text":"立即预约",
+        "button_background_color":"#FE2C55",
+        "title":"品质纯电SUV",
+        "source":"上汽大众大众品牌",
+        "image_url":"http://p9-ad-sign.byteimg.com/web.business.image/202207155d0d93a1996a03e84f25a595~tplv-iq460dd072-origin.image?from=ad&x-expires=1668321179&x-signature=KTY0%2BC0HHwxCioFMfxPXz0JWHJg%3D",
+        "style_type":2,
+        "show_button_seconds":5,
+        "show_button_color_seconds":7,
+        "button_replay_highlight":false,
+        "appointment_status":false
+    },
+    "template_type":1
+}
+
+
+
+{
+    "template_type":4,
+    "mixed_area_info":{
+        "button_background_color":"#2EAEE6",
+        "button_text":"查看详情",
+        "show_button_seconds":5,
+        "show_button_color_seconds":7,
+        "switch_style_seconds":9,
+        "product_name":"月付低至3588元",
+        "product_slogan":"多元驾趣，随心释放，创新BMW iX，月付低至3588元，BMW诚邀试驾",
+        "image_url":"http://p6-ad-sign.byteimg.com/ad-tetris-site/file/1669201306744/d0f1c9866211d62f8d94621eda3858b5~tplv-iq460dd072-origin.image?from=ad&x-expires=1674028191&x-signature=tLRCjDOMV97HL3lKqC%2BPQZpcwaQ%3D",
+        "word_image_url":"http://p6-ad-sign.byteimg.com/web.business.image/mixed_area_general_other_new.png~tplv-iq460dd072-origin.image?from=ad&x-expires=1674028191&x-signature=H%2FTEJPKIrUY7CYYDI1mKy3SputE%3D",
+        "animation_type":8,
+        "ad_title":"多元驾趣，随心释放，创新BMW iX，月付低至3588元，BMW诚邀试驾"
+    },
+    "web_url":"https://www.chengzijianzhan.com/tetris/page/7169151650828189704/?adid=1752169200430087&creativeid=1752169283103751&creativetype=15&clickid=EIfY0p3rso4DGNeNgJOYjfMEIPjU4JKYja8FMAw4wbgCQiIyMDIyMTIxOTE1NDk0OTAxMzAwMkIyMjc0ODEyMENFRkIySMG4Ami8gIb83ZC4zmNwvICJ_N2QuM5jeI2gntzE9o0DgAGDwJf50KCOA5ABAA&ad_id=1752169200430087&cid=1752169283103751&req_id=20221219154949013002B22748120CEFB2&popup_go_chatting_in_submit_success=5&estate_youLike=1&popup_commerce=0&apple_store_delay_optimization=2&show_login_fill_v3=1",
+    "web_title":"BMW授权经销商",
+    "click_track_url_list":{
+        "url_list":[
+            "https://e.cn.miaozhen.com/r/k=2332977&p=8IXHr&rt=2&pro=s&tr=20221219154949013002B22748120CEFB2&ns=112.132.241.7&mo=0&m1a=a37181b9ef37679766618d5e36a705dc&m2=__IMEI__&m5=__IDFA__&m6a=__MAC__&m11=e2952ea7b2366594&ls=0.0x0.0x100.0&vv=1&cf=CMC2022004865&o="
+        ],
+        "uri":""
+    }
+}
+
+
+{
+    "template_type":5,
+    "mixed_area_info":{
+        "button_background_color":"#FE2C55",
+        "button_text":"立即下载",
+        "show_button_seconds":5,
+        "show_button_color_seconds":7,
+        "switch_style_seconds":9,
+        "product_name":"成语摇钱树",
+        "product_slogan":"星期一福利！动动手指就有现金红包领，你还在等什么~",
+        "image_url":"http://p6-ad-sign.byteimg.com/ad-app-package/b8c74fa7a78736a90ef5240f51727bb2~tplv-iq460dd072-origin.image?from=ad&x-expires=1674028335&x-signature=nG0EFh9sIMfP86lN3e%2FJuhJSHEc%3D",
+        "word_image_url":"http://p6-ad-sign.byteimg.com/web.business.image/mixed_area_general_app_new.png~tplv-iq460dd072-origin.image?from=ad&x-expires=1674028335&x-signature=fhnFpabqZFqJlu4SJ0zmRP0PZWs%3D",
+        "animation_type":8,
+        "ad_title":"星期一福利！动动手指就有现金红包领 ，你还在等什么~",
+        "app_data":{
+            "id":"1752196211400839",
+            "name":"成语摇钱树",
+            "pkg_name":"com.msess.cyyqs.cn",
+            "download_url":"https://apps.bytesfield.com/download/basic/cur/b105012050c2179d60f7d06994e587bfb4e5f847",
+            "event_tag":"draw_ad",
+            "group_id":"7176995669624802618",
+            "is_ad":1,
+            "log_extra":"{\"ad_author_id\":0,\"ad_item_id\":7176995669624802618,\"ad_price\":\"Y6AYL__3uOljoBgv__e46SCwPT4qAlF3ITVTiw\",\"ad_show_type\":0,\"attributed_material_items\":\"[{\\\"item_type\\\":53,\\\"mid\\\":7176989008022159399},{\\\"item_type\\\":101,\\\"mid\\\":7176900512753991736},{\\\"item_type\\\":9,\\\"mid\\\":6808723269488934926}]\",\"attributed_site_id\":\"7176502028008423484\",\"bdid\":\"04dfc41549113ea69ca1bc2cfc59af810f550fd547293d4309822755bb702333\",\"card_id\":0,\"clickid\":\"EIfBh8bPs44DGNeNgJOYjfMEIPjU4JKYja8FMAw4wbgCQiIyMDIyMTIxOTE1NTIxNDFBRTg5RDREQUQwREY3MENEQjhESMG4AmiuoPPn4baOA3Cd0IDN4raOA3jN-PrI7K2OA4AB-5Dg9s6zjgOQAQA\",\"compliance_data\":\"{\\\"biz_type\\\":\\\"ad\\\",\\\"ad\\\":{\\\"download_uniform\\\":1,\\\"landing_type\\\":3,\\\"pricing_type\\\":9,\\\"content_type\\\":6,\\\"pkg_id\\\":21976868766772527,\\\"package_name\\\":\\\"com.msess.cyyqs.cn\\\",\\\"is_dsp\\\":false,\\\"dsp_type\\\":0}}\",\"component_ids\":[8,9,203397],\"convert_component_suspend\":0,\"convert_id\":0,\"dc\":1,\"dc_words\":\"星期一\",\"external_action\":25,\"hyrule_atype\":[5,20,14,1,2],\"is_pack_v2\":true,\"material_info\":\"type:21,mid:6939441106875842599,source:0,p_ids:[],id:4674642491729518569|type:19,mid:16657493,source:0,p_ids:[],id:0|type:53,mid:7176989008022159399,source:0,p_ids:[],id:0|type:10,mid:7177438832999140668,source:0,p_ids:[],id:7177438832999140668|type:9,mid:6808723269488934926,source:0,p_ids:[],id:5860626869596335494|type:49,mid:7176900512753991736,source:0,p_ids:[],id:7176502028008423484\",\"orit\":40001,\"pigeon_num\":7632217,\"real_material_items\":\"[{\\\"item_type\\\":101,\\\"mid\\\":7176900512753991736},{\\\"item_type\\\":9,\\\"mid\\\":6808723269488934926},{\\\"item_type\\\":53,\\\"mid\\\":7176989008022159399}]\",\"real_site_id\":\"7176502028008423484\",\"render_type\":\"lynx\",\"req_id\":\"202212191552141AE89D4DAD0DF70CDB8D\",\"rit\":40001,\"shadow_ad_id\":1752304193425454,\"shadow_advertiser_id\":1751997843684429,\"shadow_campaign_id\":1752196045080699,\"shadow_creative_id\":1752304405456925,\"style_id\":4020,\"style_ids\":[4020],\"variation_id\":\"7176502028008423484\",\"variation_types\":\"1001\",\"wdsignals\":0,\"jdsignals\":0,\"maca\":\"\",\"isoid\":\"\"}",
+            "version_name":""
+        }
+    },
+    "web_url":"https://www.chengzijianzhan.com/tetris/page/7176502028008423484/?clickid=EIfBh8bPs44DGNeNgJOYjfMEIPjU4JKYja8FMAw4wbgCQiIyMDIyMTIxOTE1NTIxNDFBRTg5RDREQUQwREY3MENEQjhESMG4AmiuoPPn4baOA3Cd0IDN4raOA3jN-PrI7K2OA4AB-5Dg9s6zjgOQAQA&ad_id=1752196065486955&cid=1752196211400839&req_id=202212191552141AE89D4DAD0DF70CDB8D&pkg_id=21976868766772527",
+    "web_title":"成语摇钱树",
+    "click_track_url_list":{
+        "url_list":[
+
+        ],
+        "uri":""
+    }
+}
+
+
